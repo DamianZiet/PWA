@@ -22,3 +22,10 @@ return fetch(event.request);
 })
 );
 });
+
+
+   // {
+        // "src": "./images/hello-icon-144.png",
+        // "sizes": "144x144",
+        // "type": "image/png"
+        // },
